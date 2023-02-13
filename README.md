@@ -7,9 +7,9 @@
 - Cursando Análise e Desenvolvimento de Sistemas no 1º Semestre - Wyden
 - Sou músico 🎹🎸
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FagnerNunes&show_icons=true&theme=transparent&title_color=0085FA&text_color=c9d1d9&icon_color=0085FA)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FagnerNunes&show_icons=true&theme=transparent&title_color=50B5FF&text_color=c9d1d9&icon_color=0085FA)
 
-[![Mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FagnerNunes&layout=compact&theme=transparent&title_color=0085FA&text_color=c9d1d9&icon_color=0085FA)](https://github.com/FagnerNunes/github-readme-stats)
+[![Mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FagnerNunes&layout=compact&theme=transparent&title_color=50B5FF&text_color=c9d1d9&icon_color=0085FA)](https://github.com/FagnerNunes/github-readme-stats)
 
 ## Skills:
 
