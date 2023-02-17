@@ -6,14 +6,15 @@
 - Pretendo ser Fullstack em Javascript.
 - Cursando Análise e Desenvolvimento de Sistemas no 1º Semestre - Wyden
 - Sou músico 🎹🎸
+- <a href="https://www.linkedin.com/in/fagnernunes/">Meu linkedin</a>
+
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FagnerNunes&show_icons=true&theme=transparent&title_color=50B5FF&text_color=c9d1d9&icon_color=0085FA)
 
 [![Mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FagnerNunes&layout=compact&theme=transparent&title_color=50B5FF&text_color=c9d1d9&icon_color=0085FA)](https://github.com/FagnerNunes/github-readme-stats)
 
 ## Skills:
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="80" />
 
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="75" />
