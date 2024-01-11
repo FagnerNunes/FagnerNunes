@@ -1,10 +1,9 @@
 ## Olá, bem-vindo ao meu perfil!
 
 ### Sobre mim:
-- Sou um desenvolvedor front-end autodidata.
-- Estou estudando Javascript, ReactJs, NodeJs, Php e Mysql.
-- Pretendo ser Fullstack em Javascript.
-- Cursando Análise e Desenvolvimento de Sistemas no 1º Semestre - Wyden
+- Desenvolvedor full-stack.
+- Atualmente trabalho com Php e Javascript.
+- Cursando Análise e Desenvolvimento de Sistemas no 3º Semestre - Wyden
 - Sou músico 🎹🎸
 - <a href="https://www.linkedin.com/in/fagnernunes/">Meu linkedin</a>
 
@@ -21,6 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="75" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="100" />
