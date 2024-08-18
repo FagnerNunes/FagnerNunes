@@ -5,7 +5,7 @@
 - Atualmente trabalho com Php e Javascript.
 - Cursando Análise e Desenvolvimento de Sistemas no 3º Semestre - Wyden
 - Sou músico 🎹🎸
-- <a href="[https://github.com/FagnerNunes/desafios-frontend-mentor](https://fagnernunes.github.io/portifolio/prev/)">Meu Portifólio</a>
+- <a href="https://fagnernunes.github.io/portifolio/prev/">Meu Portifólio</a>
 - <a href="https://www.linkedin.com/in/fagnernunes/">Meu linkedin</a>
 
 ##
