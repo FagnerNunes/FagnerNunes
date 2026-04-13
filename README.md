@@ -1,8 +1,8 @@
 ## Olá, bem-vindo ao meu perfil!
 
 ### Sobre mim:
-- Desenvolvedor full-stack.
-- Cursando Análise e Desenvolvimento de Sistemas no 5º Semestre - Wyden
+- Desenvolvedor Full-stack.
+- Formado em Análise e Desenvolvimento de Sistemas - Wyden
 - Sou músico 🎹🎸
 - <a href="https://fagnernunes.github.io/portifolio/prev/">Portifólio</a>
 - <a href="https://www.linkedin.com/in/fagnernunes/">Linkedin</a>
