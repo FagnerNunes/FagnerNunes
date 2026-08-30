@@ -4,7 +4,7 @@
 - Desenvolvedor Full-stack.
 - Formado em Análise e Desenvolvimento de Sistemas - Wyden
 - Sou músico 🎹🎸
-- <a href="[https://fagnernunes.github.io/portifolio/prev/](http://portfolio.fagnernunes.dev.br/)">Portifólio</a>
+- <a href="http://portfolio.fagnernunes.dev.br/">Portifólio</a>
 - <a href="https://www.linkedin.com/in/fagnernunes/">Linkedin</a>
 
 ##
